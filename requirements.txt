@@ -1,0 +1,4 @@
+python-docx==0.8.11
+requests==2.31.0
+
+-i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
